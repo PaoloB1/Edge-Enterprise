@@ -53,10 +53,8 @@ Use the following steps to add individual sites to your site list.
 2. Enter the URL for the website you’d like to add, for example: \<domain\>.com or \<domain\>.com/\<path\> in the URL box.
 3. Select one of the following options from the **Open in** list:
 
-   - **IE11**. Opens the site in the IE11 application.
-   - **IE mode**. Opens the site in Internet Explorer mode on Microsoft Edge if enabled and in the IE11 app otherwise. See [Internet Explorer mode on Microsoft Edge](./edge-ie-mode.md).
-   - **MSEdge**. Opens the site in Microsoft Edge.
-   - **Configurable**. Allows the site to participate in IE mode engine determination. See [Configurable sites in IE mode](./edge-learnmore-configurable-sites-ie-mode.md)
+   - **IE11**. Opens the site in the IE11 application, regardless of which browser is opened by the user.
+   - **MSEdge**. Opens the site in Microsoft Edge, regardless of which browser is opened by the user.
    - **None**. Opens in whatever browser the user chooses.  
 
 4. Under **Compat Mode**, choose one of the following options:
